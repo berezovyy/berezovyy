@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hey there, I'm Vasyl. I'm a full stack developer. Check out my work](https://github.com/berezovyy/berezovyy/blob/master/github-intro.gif)
 
 <!--
 **berezovyy/berezovyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
