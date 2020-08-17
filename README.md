@@ -36,6 +36,8 @@
 <br />
 
 ### 📕 Latest Blog Posts
+- [Web Security Overview](https://berezovyy.com/blog/intro-web-security)
+- [Intro To Graphql Testing](https://berezovyy.com/blog/graphql-testing-guideline)
 
 <!--
 **berezovyy/berezovyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
