@@ -17,7 +17,7 @@ will work flawlessly in all browsers.
 
 👨‍💻 Developer who has strong working knowledge of modern web development frameworks, tools and methodologies.
 
-👏 Hardworking developer will do everything possible and impossible to make your project successful.
+👏 Hardworking developer who will do everything possible and impossible to make your project successful.
 
 🤟 The person who merge a passion for usability and user experience with technical knowledge to create the best digital experiences.
 
