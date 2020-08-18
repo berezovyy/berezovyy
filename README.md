@@ -4,10 +4,6 @@
 
 🧞 The person who deeply understand the problem and all possible sub-problems and who can take your idea from start to finish.
 
-🤟 The person who merge a passion for usability and user experience with technical knowledge to create the best digital experiences.
-
-😎 Developer who actively generating process improvements and champions workflow enhancements for the product delivery.
-
 🤫 Mystery Front-End Developer who are focused on creating solid, lightweight, secure, and fast web apps that will boost any business product, and make customers really enjoy the process of using it.
 
 🤯 Front-End Developer who aren't chased by new marketing-driven shiny things. I think twice before using some tool.
@@ -22,6 +18,11 @@ will work flawlessly in all browsers.
 👨‍💻 Developer who has strong working knowledge of modern web development frameworks, tools and methodologies.
 
 👏 Hardworking developer will do everything possible and impossible to make your project successful.
+
+🤟 The person who merge a passion for usability and user experience with technical knowledge to create the best digital experiences.
+
+😎 Developer who actively generating process improvements and champions workflow enhancements for the product delivery.
+
 
 I’m currently working on my pet projects. I'm looking for a new challenges.
 
