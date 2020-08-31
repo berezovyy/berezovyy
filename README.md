@@ -1,31 +1,5 @@
 ### Hi there, I'm Vasyl 👋
 
-🦾 Diligent full-stack developer more than 7 years of experience in web development.
-
-🧞 The person who deeply understand the problem and all possible sub-problems and who can take your idea from start to finish.
-
-🤫 Mystery Front-End Developer who are focused on creating solid, lightweight, secure, and fast web apps that will boost any business product, and make customers really enjoy the process of using it.
-
-🤯 Front-End Developer who aren't chased by new marketing-driven shiny things. I think twice before using some tool.
-
-✌ Developer who know how to support all browser types, all screen sizes, and how to properly configure automatic tests for it. Bonus: 60 fps animations that
-will work flawlessly in all browsers.
-
-😮 I'm not a React.js Developer. I'm not a Next.js Developer. I'm a Front-End developer who knows how to use native browser API and plain JavaScript to create some magic.
-
-🧠 Back-end Developer who has exceptional expertise in designing architecture, testing, and maintenance of web systems and who's looking for new challenges.
-
-👨‍💻 Developer who has strong working knowledge of modern web development frameworks, tools and methodologies.
-
-👏 Hardworking developer who will do everything possible and impossible to make your project successful.
-
-🤟 The person who merge a passion for usability and user experience with technical knowledge to create the best digital experiences.
-
-😎 Developer who actively generating process improvements and champions workflow enhancements for the product delivery.
-
-
-I’m currently working on my pet projects. I'm looking for a new challenges.
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
